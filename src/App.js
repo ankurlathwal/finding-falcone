@@ -1,5 +1,6 @@
 import './App.css';
 import React, {Component} from 'react';
+
 import Home from './components/Home';
 import Result from './components/Result';
 
